@@ -1,48 +1,15 @@
-# Gayathri-panchavati
+# 💫 About Me:
+# Hi, I’m Gayathripanchavati 👋<br><br>Java-focused developer building practical backend and web applications.<br>I focus on clean logic, real projects, and consistent improvement.<br><br>---<br><br>## 🚀 About Me<br>- 🔭 Currently working on a **Java-based web application**  <br>- 👯 Open to collaborating on **open-source Java and web development projects**  <br>- 🤝 Seeking guidance in **cloud integration and AI fundamentals**  <br>- 🌱 Learning **AWS, React, and Machine Learning basics** with hands-on practice  <br>- 💡 Building small projects to strengthen problem-solving and code quality  <br><br>---<br><br>## 🧠 Tech Stack<br>- **Backend:** Java, JDBC, SQL  <br>- **Frontend:** HTML, CSS, JavaScript (React – basics)  <br>- **Data & Analytics:** Power BI, MySQL, Microsoft SQL Server  <br>- **Tools & Platforms:** Git, GitHub  <br>- **Exposure:** AWS, Apache Spark  <br><br>---<br><br>## 📂 Projects<br>- **Mini Game** – 24-hour HTML/CSS/JavaScript game focused on game logic, animations, and state management  <br>- **Java Projects** – Core Java programs, console applications, and data-structure-based problem solving  <br>- **Portfolio Website** – Responsive personal portfolio built using HTML, CSS, and JavaScript  <br>- **Power BI Dashboards** – Sales and analytics dashboards designed for clarity and actionable insights  <br><br>---<br><br>## 🤝 Open To<br>- Java and backend-focused open-source collaboration  <br>- Learning-driven projects where fundamentals and clean code matter  <br>- Cloud deployment and beginner-level AI integrations  <br><br>---<br><br>## 📊 GitHub Activity<br>I value consistency, meaningful commits, and real projects over vanity metrics.<br><br><!--<br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gayathripanchavati)<br>![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Gayathripanchavati)<br>--><br>
 
-# Hi, I’m Gayathri Panchavati 👋
 
-Java-focused developer building practical backend and web applications.
-I focus on clean logic, real projects, and consistent improvement.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gayathri-panchavati?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaIS%2BSFGnTAKw6tBiFRbnSw%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:panchavatigayathri@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Gayathripanchavati&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Gayathripanchavati&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathripanchavati&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🚀 About Me
-- 🔭 Currently working on a **Java-based web application**  
-- 👯 Open to collaborating on **open-source Java and web development projects**  
-- 🤝 Seeking guidance in **cloud integration and AI fundamentals**  
-- 🌱 Learning **AWS, React, and Machine Learning basics** with hands-on practice  
-- 💡 Building small projects to strengthen problem-solving and code quality  
-
----
-
-## 🧠 Tech Stack
-- **Backend:** Java, JDBC, SQL  
-- **Frontend:** HTML, CSS, JavaScript (React – basics)  
-- **Data & Analytics:** Power BI, MySQL, Microsoft SQL Server  
-- **Tools & Platforms:** Git, GitHub  
-- **Exposure:** AWS, Apache Spark  
-
----
-
-## 📂 Projects
-- **Mini Game** – 24-hour HTML/CSS/JavaScript game focused on game logic, animations, and state management  
-- **Java Projects** – Core Java programs, console applications, and data-structure-based problem solving  
-- **Portfolio Website** – Responsive personal portfolio built using HTML, CSS, and JavaScript  
-- **Power BI Dashboards** – Sales and analytics dashboards designed for clarity and actionable insights  
-
----
-
-## 🤝 Open To
-- Java and backend-focused open-source collaboration  
-- Learning-driven projects where fundamentals and clean code matter  
-- Cloud deployment and beginner-level AI integrations  
-
----
-
-## 📊 GitHub Activity
-I value consistency, meaningful commits, and real projects over vanity metrics.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GayathriPanchavati&show_icons=true&theme=dark&hide_border=false)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=GayathriPanchavati&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GayathriPanchavati&layout=compact&theme=dark&hide_border=false)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
