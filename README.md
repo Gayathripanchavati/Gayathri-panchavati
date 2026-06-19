@@ -1,6 +1,130 @@
-# 💫 About Me:
-# Hi, I’m Gayathripanchavati 👋<br><br>Java-focused developer building practical backend and web applications.<br>I focus on clean logic, real projects, and consistent improvement.<br><br>---<br><br>## 🚀 About Me<br>- 🔭 Currently working on a **Java-based web application**  <br>- 👯 Open to collaborating on **open-source Java and web development projects**  <br>- 🤝 Seeking guidance in **cloud integration and AI fundamentals**  <br>- 🌱 Learning **AWS, React, and Machine Learning basics** with hands-on practice  <br>- 💡 Building small projects to strengthen problem-solving and code quality  <br><br>---<br><br>## 🧠 Tech Stack<br>- **Backend:** Java, JDBC, SQL  <br>- **Frontend:** HTML, CSS, JavaScript (React – basics)  <br>- **Data & Analytics:** Power BI, MySQL, Microsoft SQL Server  <br>- **Tools & Platforms:** Git, GitHub  <br>- **Exposure:** AWS, Apache Spark  <br><br>---<br><br>## 📂 Projects<br>- **Mini Game** – 24-hour HTML/CSS/JavaScript game focused on game logic, animations, and state management  <br>- **Java Projects** – Core Java programs, console applications, and data-structure-based problem solving  <br>- **Portfolio Website** – Responsive personal portfolio built using HTML, CSS, and JavaScript  <br>- **Power BI Dashboards** – Sales and analytics dashboards designed for clarity and actionable insights  <br><br>---<br><br>## 🤝 Open To<br>- Java and backend-focused open-source collaboration  <br>- Learning-driven projects where fundamentals and clean code matter  <br>- Cloud deployment and beginner-level AI integrations  <br><br>---<br><br>## 📊 GitHub Activity<br>I value consistency, meaningful commits, and real projects over vanity metrics.<br><br><!--<br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gayathripanchavati)<br>![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Gayathripanchavati)<br>--><br>
+<h1 align="center">Hi 👋, I'm Gayathri Panchavati</h1>
 
+<h3 align="center">Java Developer | Backend Enthusiast | Lifelong Learner</h3>
+
+<p align="center">
+Passionate about building reliable software, solving real-world problems, and continuously improving my technical skills through hands-on projects and learning.
+</p>
+
+---
+
+## 🚀 About Me
+
+I am a Java-focused developer with an interest in backend development, databases, and cloud technologies. I enjoy transforming ideas into working applications and strengthening my fundamentals through practical projects.
+
+* ☕ Strong foundation in Core Java and Object-Oriented Programming
+* 🌱 Currently learning Spring Boot, Docker, Redis, Kafka, and AWS
+* 📊 Experienced with SQL, Power BI, and data analysis
+* 💡 Interested in Backend Development, System Design, and Cloud Computing
+* 🎯 Focused on writing clean, maintainable, and scalable code
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* Java
+* SQL
+* JavaScript
+
+### Backend
+
+* Spring Boot
+* JDBC
+* REST APIs
+
+### Frontend
+
+* HTML
+* CSS
+* React (Learning)
+
+### Databases
+
+* MySQL
+* Microsoft SQL Server
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* Docker
+* Power BI
+* AWS (Learning)
+
+---
+
+## 📚 Currently Learning
+
+* Spring Boot Advanced Concepts
+* Microservices Architecture
+* Docker & Containerization
+* Redis Caching
+* Apache Kafka
+* AWS Cloud Fundamentals
+* Machine Learning Basics
+
+---
+
+## 💼 Featured Projects
+
+### 🎮 Mini Game
+
+Built an interactive game using HTML, CSS, and JavaScript with a focus on animations, game logic, and user experience.
+
+### ☕ Java Applications
+
+Developed multiple Java applications demonstrating OOP concepts, Collections Framework, Exception Handling, and File Handling.
+
+### 📊 Power BI Dashboards
+
+Created business intelligence dashboards for data visualization and decision-making.
+
+### 🌐 Portfolio Website
+
+Designed and developed a responsive portfolio website to showcase projects and skills.
+
+---
+
+## 🎯 2026 Goals
+
+* Build production-ready Spring Boot applications
+* Deploy applications using AWS services
+* Contribute to open-source projects
+* Learn Microservices and Distributed Systems
+* Strengthen Data Structures and Algorithms
+* Become a skilled Backend Engineer
+
+---
+
+## 📈 GitHub Stats
+
+Add your GitHub stats widgets here after creating the profile.
+
+---
+
+## 🤝 Open To
+
+* Open-source collaboration
+* Java and Spring Boot projects
+* Backend development opportunities
+* Learning and mentorship communities
+
+---
+
+## 🌟 Developer Philosophy
+
+> Every project is an opportunity to learn something new. Consistent practice, curiosity, and attention to fundamentals are the foundation of long-term growth in software development.
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/gayathri-panchavati
+* GitHub: https://github.com/Gayathripanchavati
+
+Thanks for visiting my profile! 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gayathri-panchavati?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaIS%2BSFGnTAKw6tBiFRbnSw%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:panchavatigayathri@gmail.com) 
