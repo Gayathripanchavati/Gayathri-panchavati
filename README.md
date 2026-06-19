@@ -7,9 +7,10 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Gayathripanchavati&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/Spring_Boot-Learning-success?style=for-the-badge&logo=spring" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-yellow?style=for-the-badge&logo=amazonaws" />
 </p>
-
 ---
 
 ## 🚀 About Me
