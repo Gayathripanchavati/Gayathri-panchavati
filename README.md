@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi, I'm Gayathri Panchavati</h1>
 
-<h3 align="center">☕ Java Developer | Spring Boot Enthusiast | Backend Engineer in Progress</h3>
+<h3 align="center">☕ Java Developer | Spring Boot Enthusiast | Backend Engineer in Progress | Cloud Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&width=800&lines=Java+Developer;Spring+Boot+Learner;Backend+Development+Enthusiast;AWS+Cloud+Explorer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gayathripanchavati&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Gayathripanchavati&style=for-the-badge&color=blueviolet" />
 </p>
 
 ---
