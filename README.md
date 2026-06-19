@@ -1,130 +1,175 @@
-<h1 align="center">Hi 👋, I'm Gayathri Panchavati</h1>
+<h1 align="center">👋 Hi, I'm Gayathri Panchavati</h1>
 
-<h3 align="center">Java Developer | Backend Enthusiast | Lifelong Learner</h3>
+<h3 align="center">☕ Java Developer | Spring Boot Enthusiast | Backend Engineer in Progress</h3>
 
 <p align="center">
-Passionate about building reliable software, solving real-world problems, and continuously improving my technical skills through hands-on projects and learning.
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&width=800&lines=Java+Developer;Spring+Boot+Learner;Backend+Development+Enthusiast;AWS+Cloud+Explorer;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gayathripanchavati&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a Java-focused developer with an interest in backend development, databases, and cloud technologies. I enjoy transforming ideas into working applications and strengthening my fundamentals through practical projects.
+I am a Java developer passionate about building reliable and scalable applications. I enjoy learning modern backend technologies, improving problem-solving skills, and transforming ideas into real-world software solutions.
 
-* ☕ Strong foundation in Core Java and Object-Oriented Programming
-* 🌱 Currently learning Spring Boot, Docker, Redis, Kafka, and AWS
-* 📊 Experienced with SQL, Power BI, and data analysis
-* 💡 Interested in Backend Development, System Design, and Cloud Computing
-* 🎯 Focused on writing clean, maintainable, and scalable code
+* 🔭 Currently building Java and Spring Boot applications
+* 🌱 Learning Docker, Redis, Kafka, AWS, and Microservices
+* 💡 Interested in Backend Development, System Design, and Cloud Technologies
+* 📊 Working with SQL, Data Analytics, and Power BI
+* 🎯 Focused on continuous learning and practical project development
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 
-* Java
-* SQL
-* JavaScript
+<p>
+<img src="https://skillicons.dev/icons?i=java,javascript,mysql" />
+</p>
 
-### Backend
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring" />
+</p>
 
 * Spring Boot
 * JDBC
 * REST APIs
+* Log4j2
+* JUnit
 
 ### Frontend
 
-* HTML
-* CSS
-* React (Learning)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
+</p>
 
 ### Databases
 
 * MySQL
 * Microsoft SQL Server
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* Docker
-* Power BI
-* AWS (Learning)
+* Redis
 
 ---
 
 ## 📚 Currently Learning
 
-* Spring Boot Advanced Concepts
-* Microservices Architecture
-* Docker & Containerization
-* Redis Caching
-* Apache Kafka
-* AWS Cloud Fundamentals
-* Machine Learning Basics
-
----
+```text
+✓ Spring Boot Advanced Concepts
+✓ Docker Containerization
+✓ Redis Caching
+✓ Apache Kafka
+✓ AWS Cloud Fundamentals
+✓ Microservices Architecture
+✓ Machine Learning Basics
+✓ System Design Fundamentals
+```
 
 ## 💼 Featured Projects
 
-### 🎮 Mini Game
+### ☕ Java Practice Repository
 
-Built an interactive game using HTML, CSS, and JavaScript with a focus on animations, game logic, and user experience.
+Collection of Java programs covering:
 
-### ☕ Java Applications
+* Object-Oriented Programming
+* Collections Framework
+* Exception Handling
+* Multithreading
+* File Handling
+* Java Streams
 
-Developed multiple Java applications demonstrating OOP concepts, Collections Framework, Exception Handling, and File Handling.
+### 🚀 Spring Boot Projects
+
+Projects focused on:
+
+* REST API Development
+* Logging Frameworks
+* Unit Testing
+* Database Integration
+* Redis Cache
+* Kafka Messaging
 
 ### 📊 Power BI Dashboards
 
-Created business intelligence dashboards for data visualization and decision-making.
+Interactive dashboards for business reporting, visualization, and performance analysis.
 
-### 🌐 Portfolio Website
+### 🌐 Personal Portfolio Website
 
-Designed and developed a responsive portfolio website to showcase projects and skills.
+Responsive portfolio website showcasing skills, projects, and learning journey.
+
+### 🎮 Mini Game Project
+
+Browser-based game developed using HTML, CSS, and JavaScript with interactive gameplay and animations.
 
 ---
 
 ## 🎯 2026 Goals
 
-* Build production-ready Spring Boot applications
-* Deploy applications using AWS services
-* Contribute to open-source projects
-* Learn Microservices and Distributed Systems
-* Strengthen Data Structures and Algorithms
-* Become a skilled Backend Engineer
+* Master Spring Boot Ecosystem
+* Build Production-Ready Applications
+* Learn Cloud Deployment on AWS
+* Contribute to Open Source Projects
+* Strengthen Data Structures & Algorithms
+* Become a Skilled Backend Engineer
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 
-Add your GitHub stats widgets here after creating the profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gayathripanchavati&show_icons=true&theme=radical" height="170"/>
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathripanchavati&layout=compact&theme=radical" height="170"/>
+</p>
 
-## 🤝 Open To
-
-* Open-source collaboration
-* Java and Spring Boot projects
-* Backend development opportunities
-* Learning and mentorship communities
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gayathripanchavati&theme=radical" />
+</p>
 
 ---
 
 ## 🌟 Developer Philosophy
 
-> Every project is an opportunity to learn something new. Consistent practice, curiosity, and attention to fundamentals are the foundation of long-term growth in software development.
+> Great software is built through curiosity, consistency, and continuous improvement. Every project is an opportunity to learn something new and become a better engineer.
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Open To Collaborate On
 
-* LinkedIn: https://www.linkedin.com/in/gayathri-panchavati
-* GitHub: https://github.com/Gayathripanchavati
+* Java Projects
+* Spring Boot Applications
+* Backend Development
+* Open Source Contributions
+* Learning Communities
 
-Thanks for visiting my profile! 🚀
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/gayathri-panchavati">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<h3 align="center">💻 Code • Learn • Build • Improve • Repeat 🚀</h3>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gayathri-panchavati?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaIS%2BSFGnTAKw6tBiFRbnSw%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:panchavatigayathri@gmail.com) 
